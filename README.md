@@ -24,4 +24,4 @@ Libraries used:
 - Tweepy: used to connect with Twitter
 - dotenv: used to hide api keys
 
-This is the first version of the project. I plan to add more features and functionality to later versions of the program.
+This is the first version of the project. I plan to add more features and functionality to later versions.
