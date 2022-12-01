@@ -8,16 +8,14 @@ This is a personal project for me. I majored in American History, and Frederick 
 
 The bot:
 
-Scrapes a website for quotes
-Tweets the quotes
+Scrapes a website for quotes and tweets them
 
 - Technical details
 
 This project was a way for me to learn webscraping with python. Tools used:
 
-- Visual Studio Code: A source code editor  
-   made by Microsoft.
-- Python Programming Language
+- [Visual Studio Code](https://code.visualstudio.com)
+- [Python Programming Language](https://www.python.org)
 
 Libraries used:
 
